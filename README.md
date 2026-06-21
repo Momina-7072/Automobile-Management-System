@@ -1,5 +1,5 @@
 Last Modified: 10:25AM 5/31/26 
-Author: Momina Ahmad ( 553880)
+Author: Momina Ahmad
 this file explains how to run project,structure of all files, basic functionality of all modules and everything you need to know before testing our system.
 
 How to Run our system
